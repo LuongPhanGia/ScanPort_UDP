@@ -1,0 +1,7 @@
+c:\users\choco-pie\source\repos\ScanPort_UDP\ScanPort_UDP\bin\Debug\ScanPort_UDP.exe.config
+c:\users\choco-pie\source\repos\ScanPort_UDP\ScanPort_UDP\bin\Debug\ScanPort_UDP.exe
+c:\users\choco-pie\source\repos\ScanPort_UDP\ScanPort_UDP\bin\Debug\ScanPort_UDP.pdb
+c:\users\choco-pie\source\repos\ScanPort_UDP\ScanPort_UDP\obj\Debug\ScanPort_UDP.csprojResolveAssemblyReference.cache
+c:\users\choco-pie\source\repos\ScanPort_UDP\ScanPort_UDP\obj\Debug\ScanPort_UDP.csproj.CoreCompileInputs.cache
+c:\users\choco-pie\source\repos\ScanPort_UDP\ScanPort_UDP\obj\Debug\ScanPort_UDP.exe
+c:\users\choco-pie\source\repos\ScanPort_UDP\ScanPort_UDP\obj\Debug\ScanPort_UDP.pdb
